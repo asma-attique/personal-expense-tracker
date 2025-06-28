@@ -48,7 +48,7 @@ Form for deleting expense details.
 
 ## 📂 Project Structure
 
-```plaintext
+
 ExpenseTracker/
 │
 ├── Controllers/         # MVC controllers (ExpensesController.cs)
@@ -64,7 +64,7 @@ ExpenseTracker/
 ├── expenses.db          # SQLite database (local, optional)
 ├── .gitignore           # Git ignore rules
 └── README.md            # Project README
-```plaintext
+
 ---
 
 ## 🛠️ How to Run Locally
