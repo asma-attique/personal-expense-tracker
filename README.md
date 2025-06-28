@@ -106,8 +106,6 @@ ExpenseTracker/
     - Scaffolding controllers and views for faster development
     - Keeping a clean, deployment-ready project structure
 
-## 🌐 Demo Link 
-    https://your-live-demo-url.com
 
 ## 👤 Author
     Asma Attique
